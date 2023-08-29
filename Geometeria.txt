@@ -1,0 +1,10 @@
+Retangulo
+altura * altura
+
+Triangulo
+altura * altura / 2
+
+Elipse
+
+base/2 * altura/2 * (Pi)
+r1 * r2 * (Pi)
